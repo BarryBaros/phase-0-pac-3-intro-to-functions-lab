@@ -23,4 +23,6 @@ function sayHiToHeadphonedRoommate(string) {
         return "I would love to!";
     }
 } 
-
+console.log(sayHiToHeadphonedRoommate("hello"));
+console.log(sayHiToHeadphonedRoommate("HELLO"));
+console.log(sayHiToHeadphonedRoommate("Let's have dinner together!"));
